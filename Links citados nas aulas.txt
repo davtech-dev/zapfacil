@@ -1,0 +1,6 @@
+https://code.visualstudio.com/download
+
+
+https://nodejs.org/es/blog/release/v14.20.0
+
+https://github.com/pedroslopez/whatsapp-web.js/tree/fix-buttons-list
